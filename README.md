@@ -28,7 +28,7 @@
 <h2>ポケモン図鑑</h2>
 
 <h4>概要</h4>
-<p>このサイトは</p>
+<p>このサイトはPoke APIを用いてポケモン図鑑を作成したものです。</p>
 
 [URL](https://pokedex-pearl-one.vercel.app/)
 [Github](https://github.com/ISAWASHUN/Pokedex)
@@ -37,5 +37,4 @@
 
 - React
 - Typescript
-
-<br>
+- Tailwind css
